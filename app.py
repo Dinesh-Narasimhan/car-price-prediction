@@ -29,7 +29,7 @@ def set_bg():
         """
         <style>
         .stApp {
-            background-image: url("https://images.unsplash.com/photo-1549921296-3fd1b998d0d3");
+            background-image: url("https://wallpapercave.com/wp/wp7311343.jpg");
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
