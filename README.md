@@ -38,4 +38,4 @@ With the rise in used car transactions, especially after COVID, accurate price e
 
 Output:
 
-<img width="531" height="572" alt="Screenshot 2025-08-31 134318" src="https://github.com/user-attachments/assets/80f58e79-9967-4521-81e2-43d0f3c2a18e" />
+<img width="1918" height="861" alt="Screenshot 2025-10-23 180731" src="https://github.com/user-attachments/assets/17f54c5b-430e-455e-9d4c-186358922205" />
